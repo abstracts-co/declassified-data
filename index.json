@@ -1,0 +1,1266 @@
+{
+ "title": "a/declassified corpus",
+ "about": "Declassified and officially released government files, by country and topic. Each document has a PageIndex tree (tree.json), its page text (pages.json) and its metadata (doc.json) under pageindex/docs/<id>/. The folder pageindex/ is a PageIndex local store: clone it and open it with PageIndexClient(index={\"storage_path\": \"pageindex\"}).",
+ "countries": [
+  {
+   "id": "us",
+   "name": "United States",
+   "topics": [
+    {
+     "id": "ufo",
+     "name": "UFOs",
+     "files": [
+      {
+       "id": "ufo-flir1-tic-tac",
+       "title": "FLIR1 (Tic Tac)",
+       "type": "video",
+       "date": "2004-11-14",
+       "released": "2020-04-27",
+       "agency": "US Navy",
+       "summary": "Infrared targeting-pod video from a US Navy F/A-18 of the USS Nimitz strike group, recorded off Southern California on 14 November 2004 during the encounter pilots described as a white \"Tic Tac\". It leaked in 2007, the Pentagon released it officially in April 2020, and AARO lists it as unresolved.",
+       "source": "https://www.dvidshub.net/video/955825/flir-uap",
+       "files": "https://abstracts-co.github.io/declassified-data/us/ufo/ufo-flir1-tic-tac/",
+       "pageindex": null
+      },
+      {
+       "id": "ufo-gimbal",
+       "title": "Gimbal",
+       "type": "video",
+       "date": "2015-01",
+       "released": "2020-04-27",
+       "agency": "US Navy",
+       "summary": "Infrared video from a US Navy F/A-18 of the USS Theodore Roosevelt strike group off the US East Coast in January 2015, in which the aircrew track an object that appears to rotate. It leaked in 2017, the Pentagon released it officially in April 2020, and AARO lists it as unresolved.",
+       "source": "https://www.dvidshub.net/video/956955/gimbal-uap",
+       "files": "https://abstracts-co.github.io/declassified-data/us/ufo/ufo-gimbal/",
+       "pageindex": null
+      },
+      {
+       "id": "ufo-hottel-memo",
+       "title": "Hottel Memo",
+       "type": "document",
+       "date": "1950-03-22",
+       "released": "1977",
+       "agency": "FBI",
+       "summary": "A one-page memo of 22 March 1950 from Guy Hottel, head of the FBI's Washington field office, to J. Edgar Hoover, passing on a third party's story that an Air Force investigator said three \"flying saucers\" with three-foot-tall occupants had been recovered in New Mexico. It is the most viewed file in the FBI Vault; the FBI says it never investigated the claim and sees no reason to link it to Roswell.",
+       "source": "https://vault.fbi.gov/hottel_guy",
+       "files": "https://abstracts-co.github.io/declassified-data/us/ufo/ufo-hottel-memo/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/ufo-hottel-memo/"
+      },
+      {
+       "id": "ufo-apollo-17-dots",
+       "title": "Apollo 17 Three Dots",
+       "type": "image",
+       "date": "1972-12",
+       "released": "2026-05-08",
+       "agency": "NASA",
+       "summary": "A NASA photograph from the Apollo 17 mission in December 1972, published in the Pentagon's first PURSUE release with an enlarged inset of three faint dots in a triangle in the lunar sky. The Pentagon said there is no consensus on what they are; critics note the Apollo photos had been public for decades.",
+       "source": "https://www.war.gov/UFO/",
+       "files": "https://abstracts-co.github.io/declassified-data/us/ufo/ufo-apollo-17-dots/",
+       "pageindex": null
+      },
+      {
+       "id": "ufo-roswell-case-closed",
+       "title": "The Roswell Report: Case Closed",
+       "type": "document",
+       "date": "1997",
+       "released": "1997-06-24",
+       "agency": "US Air Force",
+       "summary": "The US Air Force's 1997 report on the Roswell legend. It concludes that the \"alien bodies\" witnesses described were anthropomorphic test dummies carried aloft by high-altitude balloons, and that stories of bodies at the base hospital blended a 1956 KC-97 crash and a 1959 balloon accident.",
+       "source": "https://www.af.mil/The-Roswell-Report/",
+       "files": "https://abstracts-co.github.io/declassified-data/us/ufo/ufo-roswell-case-closed/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/ufo-roswell-case-closed/"
+      },
+      {
+       "id": "ufo-gemini-7-bogey",
+       "title": "Gemini 7 Bogey Audio",
+       "type": "audio",
+       "date": "1965-12",
+       "released": "2026-05-08",
+       "agency": "NASA",
+       "summary": "NASA air-to-ground and public-affairs audio from the December 1965 Gemini VII flight, in which Frank Borman reports an unidentified object he calls a \"bogey\" to mission control in Houston. The Pentagon published it in its first PURSUE release in May 2026; space historian James Oberg attributes it to debris from the mission's own booster.",
+       "source": "https://www.dvidshub.net/video/1006119/nasa-audio-12-5-1965-low-earth-orbit",
+       "files": "https://abstracts-co.github.io/declassified-data/us/ufo/ufo-gemini-7-bogey/",
+       "pageindex": null
+      },
+      {
+       "id": "ufo-gofast",
+       "title": "Go Fast",
+       "type": "video",
+       "date": "2015-01",
+       "released": "2020-04-27",
+       "agency": "US Navy",
+       "summary": "Infrared video from a US Navy F/A-18F off the coast of Florida in January 2015 that seems to show a small object racing low over the ocean. The Pentagon released it officially in April 2020; AARO's February 2025 case resolution put the object at about 13,000 feet and found with high confidence that it did not move at anomalous speeds.",
+       "source": "https://www.dvidshub.net/video/956683/gofast-uap",
+       "files": "https://abstracts-co.github.io/declassified-data/us/ufo/ufo-gofast/",
+       "pageindex": null
+      },
+      {
+       "id": "ufo-odni-preliminary-assessment",
+       "title": "ODNI Preliminary Assessment on UAP",
+       "type": "document",
+       "date": "2021-06-25",
+       "released": "2021-06-25",
+       "agency": "ODNI",
+       "summary": "The Director of National Intelligence's unclassified report to Congress on UAP, drafted with the Pentagon's UAP Task Force. Of 144 US government reports from 2004 to 2021 it could explain only one, a large deflating balloon, and it noted 18 incidents with unusual movement patterns or flight characteristics.",
+       "source": "https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/item/2223-preliminary-assessment-unidentified-aerial-phenomena",
+       "files": "https://abstracts-co.github.io/declassified-data/us/ufo/ufo-odni-preliminary-assessment/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/ufo-odni-preliminary-assessment/"
+      }
+     ]
+    },
+    {
+     "id": "jfk",
+     "name": "JFK",
+     "files": [
+      {
+       "id": "jfk-schlesinger-cia-memo",
+       "title": "Schlesinger CIA Reorganization Memo",
+       "type": "document",
+       "date": "1961-06-30",
+       "released": "2025-03-18",
+       "agency": "White House",
+       "summary": "Kennedy aide Arthur Schlesinger Jr.'s memo after the Bay of Pigs proposing to split the CIA into an operations agency and a research agency, with clandestine work cleared by the State Department. The March 2025 release removed the last redactions, which show the CIA had nearly as many people under official cover abroad as the State Department.",
+       "source": "https://www.archives.gov/research/jfk/release-2025",
+       "files": "https://abstracts-co.github.io/declassified-data/us/jfk/jfk-schlesinger-cia-memo/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/jfk-schlesinger-cia-memo/"
+      },
+      {
+       "id": "jfk-mystery-man",
+       "title": "Mexico City Mystery Man",
+       "type": "image",
+       "date": "1963-10",
+       "released": "1964-11-23",
+       "agency": "CIA",
+       "summary": "A CIA photo of an unidentified man taken in Mexico City in October 1963, which CIA staff at first wrongly linked to Oswald; it became Warren Commission Exhibit 237. The FBI showed it to Oswald's mother on 23 November 1963, and neither the CIA, the FBI nor the House Assassinations Committee could identify the man, who was neither Oswald nor Ruby.",
+       "source": "https://catalog.archives.gov/id/348806259",
+       "files": "https://abstracts-co.github.io/declassified-data/us/jfk/jfk-mystery-man/",
+       "pageindex": null
+      },
+      {
+       "id": "jfk-air-force-one-tape",
+       "title": "Air Force One Radio Tape",
+       "type": "audio",
+       "date": "1963-11-22",
+       "released": "2012-01-30",
+       "agency": "White House Communications Agency",
+       "summary": "Radio traffic recorded by the White House Communications Agency as Air Force One carried Kennedy's body and President Johnson from Dallas to Andrews Air Force Base. This is side 1 of the 2-hour-22-minute copy kept by General Chester Clifton, which runs about 40 minutes longer than the LBJ Library's version.",
+       "source": "https://www.archives.gov/research/jfk/air-force-one-tape",
+       "files": "https://abstracts-co.github.io/declassified-data/us/jfk/jfk-air-force-one-tape/",
+       "pageindex": null
+      },
+      {
+       "id": "jfk-ce-399-bullet",
+       "title": "CE 399, the \"Magic Bullet\"",
+       "type": "image",
+       "date": "1963-11-22",
+       "released": "1964-11-23",
+       "agency": "Warren Commission",
+       "summary": "A National Archives photograph of Commission Exhibit 399, the nearly whole bullet found on a stretcher at Parkland Memorial Hospital. The Warren Commission said it came from the rifle found in the Book Depository and that one bullet likely hit both Kennedy and Governor Connally; critics of that single-bullet theory call it the \"magic bullet\".",
+       "source": "https://catalog.archives.gov/id/305144",
+       "files": "https://abstracts-co.github.io/declassified-data/us/jfk/jfk-ce-399-bullet/",
+       "pageindex": null
+      },
+      {
+       "id": "jfk-countering-criticism",
+       "title": "CIA Dispatch 1035-960",
+       "type": "document",
+       "date": "1967-04-01",
+       "released": "1998",
+       "agency": "CIA",
+       "summary": "A CIA dispatch to station chiefs, \"Countering Criticism of the Warren Report\", asking them to raise the issue with friendly politicians and editors and to use propaganda assets, such as book reviews and feature articles, to answer the Commission's critics. It states its aim as providing material \"countering and discrediting the claims of the conspiracy theorists\".",
+       "source": "https://www.cia.gov/readingroom/document/00352448",
+       "files": "https://abstracts-co.github.io/declassified-data/us/jfk/jfk-countering-criticism/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/jfk-countering-criticism/"
+      },
+      {
+       "id": "jfk-kgb-lbj-memo",
+       "title": "Hoover Memo on the KGB and LBJ",
+       "type": "document",
+       "date": "1966-12-01",
+       "released": "2017-10-26",
+       "agency": "FBI",
+       "summary": "J. Edgar Hoover's report to White House aide Marvin Watson on how Soviet and Communist Party officials reacted to the assassination. It passes on an FBI source's 1965 report that KGB headquarters said it had data purporting to show President Johnson was responsible.",
+       "source": "https://www.archives.gov/research/jfk/release-2017-2018",
+       "files": "https://abstracts-co.github.io/declassified-data/us/jfk/jfk-kgb-lbj-memo/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/jfk-kgb-lbj-memo/"
+      },
+      {
+       "id": "jfk-lbj-oath-photo",
+       "title": "LBJ Sworn In Aboard Air Force One",
+       "type": "image",
+       "date": "1963-11-22",
+       "released": "1963-11-22",
+       "agency": "White House",
+       "summary": "White House photographer Cecil Stoughton's picture of Lyndon Johnson taking the presidential oath aboard Air Force One at Love Field, Dallas, with Jacqueline Kennedy at his side. Judge Sarah T. Hughes administered the oath before the plane left for Washington with Kennedy's body.",
+       "source": "https://www.lbjlibrary.org/object/photo/swearing-lyndon-b-johnson-president",
+       "files": "https://abstracts-co.github.io/declassified-data/us/jfk/jfk-lbj-oath-photo/",
+       "pageindex": null
+      },
+      {
+       "id": "jfk-funeral-film",
+       "title": "Kennedy Funeral Procession Film",
+       "type": "video",
+       "date": "1963-11",
+       "released": "1991",
+       "agency": "US Army",
+       "summary": "Silent color film from Army Signal Corps records of President Kennedy's funeral procession in Washington, showing the flag-draped casket on a horse-drawn caisson, marching units of all five services, the Joint Chiefs of Staff and crowds lining the streets.",
+       "source": "https://catalog.archives.gov/id/29531",
+       "files": "https://abstracts-co.github.io/declassified-data/us/jfk/jfk-funeral-film/",
+       "pageindex": null
+      }
+     ]
+    },
+    {
+     "id": "area51",
+     "name": "Area 51",
+     "files": [
+      {
+       "id": "area51-u2-oxcart-history",
+       "title": "The U-2 and OXCART Programs",
+       "type": "document",
+       "date": "1992",
+       "released": "2013-06-25",
+       "agency": "CIA",
+       "summary": "Chapter 2 of the CIA's 1992 internal history of its U-2 and OXCART spy-plane programs, from the less-redacted version released in 2013 that names Area 51. It tells how the CIA and Lockheed chose Groom Lake in 1955 and says U-2 and OXCART flights accounted for more than half of all UFO reports in the late 1950s and most of the 1960s.",
+       "source": "https://www.cia.gov/readingroom/document/0000190094",
+       "files": "https://abstracts-co.github.io/declassified-data/us/area51/area51-u2-oxcart-history/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/area51-u2-oxcart-history/"
+      },
+      {
+       "id": "area51-groom-lake-map",
+       "title": "CIA Map of Area 51",
+       "type": "image",
+       "date": "1992-04",
+       "released": "2013-06-25",
+       "agency": "CIA",
+       "summary": "A CIA map from the 1992 U-2 and OXCART history that marks Area 51 and Groom Lake beside the Atomic Energy Commission's Nevada Test Site. It was released in 2013 with the less-redacted history, a release widely reported as the US government's first acknowledgement of the base.",
+       "source": "https://www.cia.gov/readingroom/document/0000190094",
+       "files": "https://abstracts-co.github.io/declassified-data/us/area51/area51-groom-lake-map/",
+       "pageindex": null
+      },
+      {
+       "id": "area51-skylab-memo",
+       "title": "Skylab Photographs Area 51",
+       "type": "document",
+       "date": "1974-04-19",
+       "released": "2004-10-12",
+       "agency": "CIA",
+       "summary": "A 1974 memo to CIA Director William Colby reporting that Skylab astronauts had photographed the one place they had been told not to (the name is blacked out; it was Area 51), and that NASA wanted the picture released while Defense Department agencies wanted it withheld. Colby's handwritten note questions the need to protect it, since the Soviets had it from their own satellites, and asks what it really reveals.",
+       "source": "https://www.cia.gov/readingroom/document/cia-rdp80m01048a000800210008-5",
+       "files": "https://abstracts-co.github.io/declassified-data/us/area51/area51-skylab-memo/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/area51-skylab-memo/"
+      },
+      {
+       "id": "area51-u2-nasa-cover",
+       "title": "U-2 in Fake NASA Markings",
+       "type": "image",
+       "date": "1960-05-06",
+       "released": "1960-05-06",
+       "agency": "NASA",
+       "summary": "After Francis Gary Powers' CIA U-2 was shot down over the Soviet Union on 1 May 1960, NASA said the plane had been doing weather research. To back the cover story, a U-2 was painted in NASA markings with a made-up serial number and shown to reporters at NASA's Flight Research Center at Edwards on 6 May 1960.",
+       "source": "https://www.dvidshub.net/image/687121/u-2-with-fictitious-nasa-markings-support-cia-cover-story-pilot-gary-powers-shot-down-over-s",
+       "files": "https://abstracts-co.github.io/declassified-data/us/area51/area51-u2-nasa-cover/",
+       "pageindex": null
+      },
+      {
+       "id": "area51-have-doughnut",
+       "title": "Project HAVE DOUGHNUT",
+       "type": "document",
+       "date": "1969-08-01",
+       "released": "2000-03-23",
+       "agency": "DIA",
+       "summary": "The 1969 tactical report on HAVE DOUGHNUT, the 1968 project in which Air Force and Navy pilots secretly flew a Soviet-built MiG-21 at Area 51 against US fighters to learn how to beat it. Israel had lent the jet, which it got when an Iraqi pilot defected with it in 1966.",
+       "source": "https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs",
+       "files": "https://abstracts-co.github.io/declassified-data/us/area51/area51-have-doughnut/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/area51-have-doughnut/"
+      },
+      {
+       "id": "area51-a12-oxcart",
+       "title": "A-12 OXCART in Flight",
+       "type": "image",
+       "date": "1965",
+       "released": "1982",
+       "agency": "US Air Force",
+       "summary": "An undated 1960s U.S. Air Force photo of the A-12 OXCART, the Mach 3 spy plane Lockheed built for the CIA and test-flew at Area 51 from April 1962. This aircraft, 60-6932, was lost at sea with CIA pilot Jack Weeks in June 1968, shortly before the program ended.",
+       "source": "https://commons.wikimedia.org/wiki/File:A12-flying.jpg",
+       "files": "https://abstracts-co.github.io/declassified-data/us/area51/area51-a12-oxcart/",
+       "pageindex": null
+      },
+      {
+       "id": "area51-d21-drone",
+       "title": "M-21 Carrying a D-21 Drone",
+       "type": "image",
+       "date": "1965",
+       "released": "1982",
+       "agency": "US Air Force",
+       "summary": "An undated U.S. Air Force photo from the 1964-66 test program of M-21 60-6940, a two-seat A-12 rebuilt as a mothership, carrying a D-21 reconnaissance drone on its back. On 30 July 1966 a D-21 struck the other M-21 as it launched, destroying both and killing launch officer Ray Torick; the drone was later launched from B-52s over China instead.",
+       "source": "https://commons.wikimedia.org/wiki/File:Lockheed_M-21_with_D-21_drone_in_flight_c1965.JPEG",
+       "files": "https://abstracts-co.github.io/declassified-data/us/area51/area51-d21-drone/",
+       "pageindex": null
+      },
+      {
+       "id": "area51-sr71-film",
+       "title": "The SR-71",
+       "type": "video",
+       "date": "1997",
+       "released": "1997",
+       "agency": "US Air Force",
+       "summary": "A short U.S. Air Force film of the SR-71 Blackbird, the Air Force's two-seat reconnaissance version of the CIA's A-12, with air-to-air shots, cockpit instruments at about Mach 3 above 80,000 feet, a takeoff and a landing. President Johnson revealed the SR-71 in July 1964; the CIA history says he was meant to say 'RS-71'.",
+       "source": "https://archive.org/details/gov.ntis.ava20323-vnb1",
+       "files": "https://abstracts-co.github.io/declassified-data/us/area51/area51-sr71-film/",
+       "pageindex": null
+      }
+     ]
+    },
+    {
+     "id": "psychic",
+     "name": "Psychic spies",
+     "files": [
+      {
+       "id": "psychic-gateway-process",
+       "title": "Gateway Process Assessment",
+       "type": "document",
+       "date": "1983-06-09",
+       "released": "2003-09-10",
+       "agency": "US Army",
+       "summary": "A 1983 report by Army Lt. Col. Wayne McDonnell assessing the Monroe Institute's Gateway Experience, a course of audio tapes meant to synchronize the brain's hemispheres (Hemi-Sync). It tries to explain the course's claims of out-of-body states and perception beyond time and space in terms of physics, drawing on Itzhak Bentov's models.",
+       "source": "https://www.cia.gov/readingroom/document/cia-rdp96-00788r001700210016-5",
+       "files": "https://abstracts-co.github.io/declassified-data/us/psychic/psychic-gateway-process/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/psychic-gateway-process/"
+      },
+      {
+       "id": "psychic-mars-1984",
+       "title": "Mars Exploration, May 22, 1984",
+       "type": "document",
+       "date": "1984-05-22",
+       "released": "2000-08-08",
+       "agency": "US Army",
+       "summary": "Transcript of a May 1984 remote-viewing session in which the viewer held a sealed envelope, opened only afterwards, with a card reading 'The planet Mars. Time of interest approximately 1 million years B.C.' Given a series of coordinates, he describes pyramids and very tall, thin 'ancient people' who are dying.",
+       "source": "https://www.cia.gov/readingroom/document/cia-rdp96-00788r001900760001-9",
+       "files": "https://abstracts-co.github.io/declassified-data/us/psychic/psychic-mars-1984/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/psychic-mars-1984/"
+      },
+      {
+       "id": "psychic-price-crane-drawing",
+       "title": "Pat Price's Crane Drawing",
+       "type": "image",
+       "date": "1974-07",
+       "released": "2003-04-18",
+       "agency": "CIA",
+       "summary": "A page from Kenneth Kress's 1977 CIA article comparing a crane at a Soviet research site near Semipalatinsk (URDF-3) with the crane that remote viewer Pat Price drew at SRI in July 1974, after being given the site's coordinates and told it was a Soviet test site. Analysts agreed the crane was accurate, but most of Price's other data were wrong or could not be checked.",
+       "source": "https://www.cia.gov/readingroom/document/cia-rdp96-00791r000200030040-0",
+       "files": "https://abstracts-co.github.io/declassified-data/us/psychic/psychic-price-crane-drawing/",
+       "pageindex": null
+      },
+      {
+       "id": "psychic-uri-geller-sri",
+       "title": "Experiments: Uri Geller at SRI",
+       "type": "document",
+       "date": "1973-08",
+       "released": "2003-03-28",
+       "agency": "CIA",
+       "summary": "Stanford Research Institute notes, from the CIA's files on its SRI contract, on eight days of tests in August 1973 in which Uri Geller tried to copy drawings he could not see, either locked in a shielded room or while the targets were drawn on the East Coast. The researchers wrote that he had shown paranormal perception 'in a convincing and unambiguous manner'.",
+       "source": "https://www.cia.gov/readingroom/document/cia-rdp79-00999a000300030027-0",
+       "files": "https://abstracts-co.github.io/declassified-data/us/psychic/psychic-uri-geller-sri/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/psychic-uri-geller-sri/"
+      },
+      {
+       "id": "psychic-kress-review",
+       "title": "Parapsychology in Intelligence",
+       "type": "document",
+       "date": "1977",
+       "released": "2003-04-18",
+       "agency": "CIA",
+       "summary": "CIA officer Kenneth Kress's account of the agency's psychic research, written for its classified journal Studies in Intelligence in 1977. It covers the SRI work, Pat Price's viewing of a Soviet test site and Price naming Kress's CIA job, and argues the results were never properly assessed.",
+       "source": "https://www.cia.gov/readingroom/document/cia-rdp96-00791r000200030040-0",
+       "files": "https://abstracts-co.github.io/declassified-data/us/psychic/psychic-kress-review/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/psychic-kress-review/"
+      },
+      {
+       "id": "psychic-dozier-padua",
+       "title": "Psychics and the Dozier Kidnapping",
+       "type": "document",
+       "date": "1983",
+       "released": "2000-08-08",
+       "agency": "US Army",
+       "summary": "Slides from a 1983 Army briefing on its remote viewers' sessions to locate Brigadier General James Dozier, kidnapped by the Red Brigades in Verona in December 1981. The slide for 20 January 1982 reads 'The name is Padua'; Italian police, helped by a US Army intelligence unit, freed Dozier from a Padua apartment on 28 January 1982.",
+       "source": "https://www.cia.gov/readingroom/document/cia-rdp96-00788r001700370004-1",
+       "files": "https://abstracts-co.github.io/declassified-data/us/psychic/psychic-dozier-padua/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/psychic-dozier-padua/"
+      },
+      {
+       "id": "psychic-crv-manual",
+       "title": "Coordinate Remote Viewing (1985)",
+       "type": "document",
+       "date": "1985-02",
+       "released": "2000-08-07",
+       "agency": "US Army",
+       "summary": "A secret February 1985 working paper on Coordinate Remote Viewing, the training method developed by Ingo Swann with SRI, in which a viewer tries to describe a site given only its geographic coordinates. It sets out the six training stages and includes a sample session.",
+       "source": "https://www.cia.gov/readingroom/document/cia-rdp96-00788r001000400001-7",
+       "files": "https://abstracts-co.github.io/declassified-data/us/psychic/psychic-crv-manual/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/psychic-crv-manual/"
+      },
+      {
+       "id": "psychic-air-evaluation",
+       "title": "An Evaluation of Remote Viewing",
+       "type": "document",
+       "date": "1995-09-29",
+       "released": "2002-05-22",
+       "agency": "CIA",
+       "summary": "The 1995 review of the government's remote-viewing program by the American Institutes for Research, commissioned by the CIA, with assessments by statistician Jessica Utts and psychologist Ray Hyman. It found remote viewing had never been used to guide intelligence operations and concluded that continued use was not warranted; the program was closed that year.",
+       "source": "https://www.cia.gov/readingroom/document/cia-rdp96-00791r000200180006-4",
+       "files": "https://abstracts-co.github.io/declassified-data/us/psychic/psychic-air-evaluation/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/psychic-air-evaluation/"
+      }
+     ]
+    },
+    {
+     "id": "mind",
+     "name": "Mind control",
+     "files": [
+      {
+       "id": "mind-mkultra-hearing",
+       "title": "Project MKULTRA Senate Hearing",
+       "type": "document",
+       "date": "1977-08-03",
+       "released": "1977",
+       "agency": "US Senate",
+       "summary": "Transcript of the August 1977 joint Senate hearing where CIA Director Stansfield Turner described newly found MKULTRA records covering 149 subprojects on drugs, hypnosis and behavior modification, some involving tests on unwitting people. The records had survived the CIA's 1973 destruction of the MKULTRA files because they had been filed with financial records.",
+       "source": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+       "files": "https://abstracts-co.github.io/declassified-data/us/mind/mind-mkultra-hearing/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/mind-mkultra-hearing/"
+      },
+      {
+       "id": "mind-lsd-troops-film",
+       "title": "Effects of LSD on Troops Marching",
+       "type": "video",
+       "date": "1958",
+       "released": "1963-05-29",
+       "agency": "US Army",
+       "summary": "U.S. Army Chemical Warfare Laboratories film in which volunteer soldiers try to do close-order drill after being given LSD, and the drill falls apart. The Army was testing LSD as a battlefield incapacitant in the same years as the CIA's drug experiments.",
+       "source": "https://catalog.archives.gov/id/2123707",
+       "files": "https://abstracts-co.github.io/declassified-data/us/mind/mind-lsd-troops-film/",
+       "pageindex": null
+      },
+      {
+       "id": "mind-subproject-35",
+       "title": "MKULTRA Subproject 35",
+       "type": "document",
+       "date": "1954-10-05",
+       "released": "1977",
+       "agency": "CIA",
+       "summary": "CIA file on the MKULTRA subproject that secretly put $375,000 through a front foundation toward a new wing of Georgetown University Hospital so the agency could use part of it for its chemical and biological research. It includes a May 5, 1955 draft listing what the CIA's Chemical Division was trying to develop, from substances that 'promote illogical thinking' to methods that cause amnesia.",
+       "source": "https://www.cia.gov/readingroom/document/00017432",
+       "files": "https://abstracts-co.github.io/declassified-data/us/mind/mind-subproject-35/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/mind-subproject-35/"
+      },
+      {
+       "id": "mind-midnight-climax",
+       "title": "Subproject 42 (Midnight Climax)",
+       "type": "document",
+       "date": "1956-08-17",
+       "released": "1977",
+       "agency": "CIA",
+       "summary": "One-page memo in which Sidney Gottlieb, who ran MKULTRA, explains that people who covertly gave drugs to unwitting subjects for a CIA safehouse run by narcotics agent George White would be paid in cash, without receipts. Subproject 42 funded White's San Francisco safehouse, the operation known as Midnight Climax.",
+       "source": "https://www.cia.gov/readingroom/document/00748553",
+       "files": "https://abstracts-co.github.io/declassified-data/us/mind/mind-midnight-climax/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/mind-midnight-climax/"
+      },
+      {
+       "id": "mind-ford-olson-meeting",
+       "title": "Ford Meets the Olson Family",
+       "type": "image",
+       "date": "1975-07-21",
+       "released": "2011",
+       "agency": "White House",
+       "summary": "Contact sheet of White House photographer David Hume Kennerly's pictures of President Ford meeting Frank Olson's widow, children and son-in-law in the Oval Office. Ford apologized on behalf of the government for the circumstances of Olson's death in 1953, about a week after the CIA secretly gave the Army scientist LSD.",
+       "source": "https://www.fordlibrarymuseum.gov/Library/whphotos/19750721whpo.pdf",
+       "files": "https://abstracts-co.github.io/declassified-data/us/mind/mind-ford-olson-meeting/",
+       "pageindex": null
+      },
+      {
+       "id": "mind-ig-report-1963",
+       "title": "Report of Inspection of MKULTRA",
+       "type": "document",
+       "date": "1963-07-26",
+       "released": "2019-04-03",
+       "agency": "CIA",
+       "summary": "The CIA Inspector General's report on MKULTRA, prepared in a single copy, which found that the agency had been covertly testing drugs and other materials on unwitting US citizens since 1955 and recommended ending that testing in the United States. It was the main source on MKULTRA for the 1975 investigations.",
+       "source": "https://www.cia.gov/readingroom/document/06767515",
+       "files": "https://abstracts-co.github.io/declassified-data/us/mind/mind-ig-report-1963/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/mind-ig-report-1963/"
+      },
+      {
+       "id": "mind-project-bluebird",
+       "title": "Project Bluebird",
+       "type": "document",
+       "date": "1950-04-05",
+       "released": "2004-01-29",
+       "agency": "CIA",
+       "summary": "April 1950 memo asking the Director of Central Intelligence to approve Project Bluebird, interrogation teams that would use the polygraph, drugs and hypnotism, sent to him directly rather than through the Projects Review Committee because of its sensitivity. The file also holds 1952 memos on its successor, Project ARTICHOKE.",
+       "source": "https://www.cia.gov/readingroom/document/cia-rdp83-01042r000800010003-1",
+       "files": "https://abstracts-co.github.io/declassified-data/us/mind/mind-project-bluebird/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/mind-project-bluebird/"
+      },
+      {
+       "id": "mind-subproject-119",
+       "title": "MKULTRA Subproject 119",
+       "type": "document",
+       "date": "1959-07-01",
+       "released": "1998-11-16",
+       "agency": "CIA",
+       "summary": "CIA file on an MKULTRA subproject that paid for a survey of research on recording bioelectric signals from the human body and 'activation of human behavior by remote means'. Its 1960 project memo lists remote electronic activation of the human organism as one of five study areas.",
+       "source": "https://www.cia.gov/readingroom/document/00017376",
+       "files": "https://abstracts-co.github.io/declassified-data/us/mind/mind-subproject-119/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/mind-subproject-119/"
+      }
+     ]
+    },
+    {
+     "id": "nuclear",
+     "name": "Nuclear",
+     "files": [
+      {
+       "id": "nuclear-goldsboro-revisited",
+       "title": "Goldsboro Revisited",
+       "type": "document",
+       "date": "1969",
+       "released": "2013-09-20",
+       "agency": "Sandia Laboratories",
+       "summary": "A two-page 1969 memo by Sandia weapons safety supervisor Parker F. Jones about the January 1961 B-52 breakup over North Carolina, which dropped two Mark 39 hydrogen bombs near Goldsboro. Jones concluded that the bomb lacked adequate safety for the B-52 airborne alert role and that one low-voltage switch stood between the United States and a major catastrophe.",
+       "source": "https://prologue.blogs.archives.gov/2021/01/22/brush-with-catastrophe-the-day-the-u-s-almost-nuked-itself/",
+       "files": "https://abstracts-co.github.io/declassified-data/us/nuclear/nuclear-goldsboro-revisited/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/nuclear-goldsboro-revisited/"
+      },
+      {
+       "id": "nuclear-hardtack-nutmeg-film",
+       "title": "Hardtack I: Nutmeg test film",
+       "type": "video",
+       "date": "1958-05-22",
+       "released": "2017-03",
+       "agency": "LLNL",
+       "summary": "Color film of Nutmeg, a 25-kiloton Livermore test device fired on a barge at Bikini Atoll on 22 May 1958 during Operation Hardtack I. Lawrence Livermore National Laboratory declassified the film and posted it online in March 2017, in a project to save decaying nuclear test films.",
+       "source": "https://www.youtube.com/watch?v=XnrLY-phipw",
+       "files": "https://abstracts-co.github.io/declassified-data/us/nuclear/nuclear-hardtack-nutmeg-film/",
+       "pageindex": null
+      },
+      {
+       "id": "nuclear-project-a119",
+       "title": "Project A119: Lunar Research Flights",
+       "type": "document",
+       "date": "1959-06-19",
+       "released": "2000",
+       "agency": "US Air Force",
+       "summary": "Volume I of a 1959 study by Leonard Reiffel of the Armour Research Foundation for the Air Force Special Weapons Center on what a nuclear explosion near the Moon could reveal; Carl Sagan is listed as a contributor. The plan, later known as Project A119, was never carried out and became publicly known when Reiffel described it in 2000.",
+       "source": "https://www.govinfo.gov/app/details/GOVPUB-D301-PURL-gpo32511",
+       "files": "https://abstracts-co.github.io/declassified-data/us/nuclear/nuclear-project-a119/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/nuclear-project-a119/"
+      },
+      {
+       "id": "nuclear-trinity-fireball",
+       "title": "Trinity Fireball at 16 ms",
+       "type": "image",
+       "date": "1945-07-16",
+       "released": "1947-07-17",
+       "agency": "Manhattan Project",
+       "summary": "Berlyn Brixner's photograph of the Trinity fireball 0.016 seconds after the first nuclear explosion, in New Mexico on 16 July 1945. Fireball photos with elapsed times were declassified in July 1947, and physicist G. I. Taylor later used them to estimate the bomb's yield.",
+       "source": "https://commons.wikimedia.org/wiki/File:Trinity_Test_Fireball_16ms.jpg",
+       "files": "https://abstracts-co.github.io/declassified-data/us/nuclear/nuclear-trinity-fireball/",
+       "pageindex": null
+      },
+      {
+       "id": "nuclear-operation-ivy-film",
+       "title": "Operation Ivy",
+       "type": "video",
+       "date": "1952-11-01",
+       "released": "1954",
+       "agency": "US Air Force",
+       "summary": "Silent 10-minute National Archives reel of Operation Ivy, the Air Force film of Mike, the first full-scale hydrogen bomb test, with actor Reed Hadley as host. Mike yielded 10.4 megatons on 1 November 1952 and left a crater where the island of Elugelab had been; a censored version of the film was released to the public in 1954.",
+       "source": "https://catalog.archives.gov/id/66458",
+       "files": "https://abstracts-co.github.io/declassified-data/us/nuclear/nuclear-operation-ivy-film/",
+       "pageindex": null
+      },
+      {
+       "id": "nuclear-sac-target-study",
+       "title": "SAC Atomic Weapons Requirements Study",
+       "type": "document",
+       "date": "1956-06-15",
+       "released": "2014-10",
+       "agency": "Strategic Air Command",
+       "summary": "Title page, contents and introduction of Strategic Air Command's June 1956 study of the atomic weapons it would need for a war in 1959. The full study listed more than 1,100 Soviet bloc airfields and more than 1,200 cities as targets, with 'population' as a target in cities such as Moscow, Leningrad, East Berlin, Warsaw and Beijing.",
+       "source": "https://nsarchive2.gwu.edu/nukevault/ebb538-Cold-War-Nuclear-Target-List-Declassified-First-Ever/",
+       "files": "https://abstracts-co.github.io/declassified-data/us/nuclear/nuclear-sac-target-study/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/nuclear-sac-target-study/"
+      },
+      {
+       "id": "nuclear-castle-bravo",
+       "title": "Castle Bravo",
+       "type": "image",
+       "date": "1954-03-01",
+       "released": "1993",
+       "agency": "US Department of Defense",
+       "summary": "Aerial photograph of the Castle Bravo fireball over Bikini Atoll on 1 March 1954, the largest nuclear test the United States ever conducted. Bravo yielded 15 megatons, nearly three times what its planners expected, and its fallout sickened Marshall Islanders and contaminated 23 Japanese fishermen.",
+       "source": "https://catalog.archives.gov/id/146763394",
+       "files": "https://abstracts-co.github.io/declassified-data/us/nuclear/nuclear-castle-bravo/",
+       "pageindex": null
+      },
+      {
+       "id": "nuclear-starfish-prime",
+       "title": "Starfish Prime",
+       "type": "image",
+       "date": "1962-07-09",
+       "released": "1993",
+       "agency": "US Department of Defense",
+       "summary": "Photograph of the Starfish Prime burst and the aurora it made, taken from atop Haleakala on Maui. The 1.4-megaton warhead exploded about 400 km above the Pacific near Johnston Atoll on 9 July 1962, and its electromagnetic pulse knocked out about 300 streetlights in Hawaii.",
+       "source": "https://catalog.archives.gov/id/146764182",
+       "files": "https://abstracts-co.github.io/declassified-data/us/nuclear/nuclear-starfish-prime/",
+       "pageindex": null
+      }
+     ]
+    },
+    {
+     "id": "space",
+     "name": "Space",
+     "files": [
+      {
+       "id": "space-moon-disaster",
+       "title": "In Event of Moon Disaster",
+       "type": "document",
+       "date": "1969-07-18",
+       "released": "1999-07-07",
+       "agency": "White House",
+       "summary": "A memo from speechwriter William Safire to chief of staff H. R. Haldeman with the speech President Nixon would have read if Apollo 11 astronauts Neil Armstrong and Edwin Aldrin were stranded on the Moon. It also told Nixon to telephone the \"widows-to-be\" and had a clergyman commend their souls to \"the deepest of the deep\".",
+       "source": "https://catalog.archives.gov/id/6922351",
+       "files": "https://abstracts-co.github.io/declassified-data/us/space/space-moon-disaster/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/space-moon-disaster/"
+      },
+      {
+       "id": "space-jfk-webb-tape",
+       "title": "\"I'm Not That Interested in Space\"",
+       "type": "audio",
+       "date": "1962-11-21",
+       "released": "2001-08",
+       "agency": "White House",
+       "summary": "Part 1 of the recorded Cabinet Room meeting in which President Kennedy pressed NASA Administrator James Webb to make the Moon landing NASA's top priority. In it Kennedy says he is \"not that interested in space\" and that the only justification for the cost is to beat the Soviet Union.",
+       "source": "https://www.nasa.gov/history/JFK-Webbconv/pages/audio.html",
+       "files": "https://abstracts-co.github.io/declassified-data/us/space/space-jfk-webb-tape/",
+       "pageindex": null
+      },
+      {
+       "id": "space-lunik-kidnapping",
+       "title": "The Kidnaping of the Lunik",
+       "type": "document",
+       "date": "1967",
+       "released": "1995-09-18",
+       "agency": "CIA",
+       "summary": "A 1967 Studies in Intelligence article on how US intelligence officers examined a Soviet Lunik upper stage from a touring Soviet exhibition and found it was a real production vehicle, not a mock-up. On a second access they borrowed it overnight, copied its factory markings and returned it before the Soviets missed it.",
+       "source": "https://www.cia.gov/readingroom/document/06355349",
+       "files": "https://abstracts-co.github.io/declassified-data/us/space/space-lunik-kidnapping/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/space-lunik-kidnapping/"
+      },
+      {
+       "id": "space-n1-moon-rocket",
+       "title": "Soviet N1 Moon Rocket from Orbit",
+       "type": "image",
+       "date": "1968-09-19",
+       "released": "2012-01",
+       "agency": "NRO",
+       "summary": "A KH-8 GAMBIT spy satellite photo of a launch complex at Tyuratam (Baikonur), Kazakhstan, showing the Soviet N1 Moon rocket on its pad on 19 September 1968. The NRO later said GAMBIT images confirmed the Soviets were building a vehicle to go to the Moon while they denied being in a Moon race.",
+       "source": "https://www.nro.gov/History-and-Studies/Center-for-the-Study-of-National-Reconnaissance/The-GAMBIT-and-HEXAGON-Programs/GAMBIT-and-HEXAGON-Images/",
+       "files": "https://abstracts-co.github.io/declassified-data/us/space/space-n1-moon-rocket/",
+       "pageindex": null
+      },
+      {
+       "id": "space-project-horizon",
+       "title": "Project Horizon",
+       "type": "document",
+       "date": "1959-06-09",
+       "released": "1961-09-21",
+       "agency": "US Army",
+       "summary": "Volume I of the US Army's 1959 study for a military outpost on the Moon, prepared by the Army Ballistic Missile Agency. It proposed a first manned landing in spring 1965 and an operational 12-man outpost by late 1966 at an estimated cost of six billion dollars.",
+       "source": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB479/",
+       "files": "https://abstracts-co.github.io/declassified-data/us/space/space-project-horizon/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/space-project-horizon/"
+      },
+      {
+       "id": "space-mol-dorian",
+       "title": "The DORIAN Files Revealed",
+       "type": "document",
+       "date": "2015-08",
+       "released": "2015-10-22",
+       "agency": "NRO",
+       "summary": "The NRO's 2015 compendium on the Manned Orbiting Laboratory, built around Carl Berger's declassified history of the MOL program office and an index of the documents released with it. MOL was a 1960s Air Force space station whose secret DORIAN mission was for two-man crews to photograph Soviet military targets with a giant camera; it was cancelled in June 1969 without flying a crew.",
+       "source": "https://www.nro.gov/FOIA/MOL",
+       "files": "https://abstracts-co.github.io/declassified-data/us/space/space-mol-dorian/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/space-mol-dorian/"
+      }
+     ]
+    },
+    {
+     "id": "cuba",
+     "name": "Cuba",
+     "files": [
+      {
+       "id": "cuba-operation-northwoods",
+       "title": "Operation Northwoods",
+       "type": "document",
+       "date": "1962-03-13",
+       "released": "1997-11-18",
+       "agency": "Joint Chiefs of Staff",
+       "summary": "A Top Secret memo the Joint Chiefs of Staff sent to Defense Secretary Robert McNamara on 13 March 1962, listing staged incidents that could serve as pretexts for US military intervention in Cuba. The ideas included a fake Communist Cuban terror campaign in Florida and Washington, a faked attack on a civilian airliner and blowing up a US ship in Cuban waters; Kennedy rejected the proposals.",
+       "source": "https://catalog.archives.gov/id/305036",
+       "files": "https://abstracts-co.github.io/declassified-data/us/cuba/cuba-operation-northwoods/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/cuba-operation-northwoods/"
+      },
+      {
+       "id": "cuba-u2-san-cristobal",
+       "title": "U-2 Photo of San Cristobal Missile Site",
+       "type": "image",
+       "date": "1962-10-14",
+       "released": "1962-10",
+       "agency": "US Air Force",
+       "summary": "Annotated U-2 reconnaissance print of MRBM Field Launch Site San Cristobal No. 1 in western Cuba, labeling erector-launcher equipment, eight missile trailers and tent areas. Photos from this 14 October 1962 flight were the first photographic evidence of Soviet offensive missiles in Cuba and set off the Cuban Missile Crisis.",
+       "source": "https://catalog.archives.gov/id/404793165",
+       "files": "https://abstracts-co.github.io/declassified-data/us/cuba/cuba-u2-san-cristobal/",
+       "pageindex": null
+      },
+      {
+       "id": "cuba-castro-plots-report",
+       "title": "Report on Plots to Assassinate Castro",
+       "type": "document",
+       "date": "1967-04",
+       "released": "2022-12-15",
+       "agency": "CIA",
+       "summary": "The CIA Inspector General's 1967 internal report on agency plots to kill Fidel Castro, written for Director Richard Helms after President Johnson ordered an investigation. It covers poisoned cigars, a diving suit dusted with fungus, a booby-trapped sea shell and the use of a gambling syndicate; first released in censored form in the 1990s, this copy comes from the National Archives' December 2022 release.",
+       "source": "https://www.archives.gov/research/jfk/release-2022",
+       "files": "https://abstracts-co.github.io/declassified-data/us/cuba/cuba-castro-plots-report/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/cuba-castro-plots-report/"
+      },
+      {
+       "id": "cuba-excomm-tape",
+       "title": "ExComm Meeting Tape, October 16, 1962",
+       "type": "audio",
+       "date": "1962-10-16",
+       "released": "1983-10-26",
+       "agency": "White House",
+       "summary": "Secret White House recording of the first meeting on the Soviet missiles in Cuba, held hours after Kennedy learned of the U-2 photos: photo interpreter Arthur Lundahl briefs him on the pictures and his advisers start debating air strikes and an invasion. The Kennedy Library first released the tape, with large parts withheld, in October 1983.",
+       "source": "https://microsites.jfklibrary.org/cmc/oct16/doc2.html",
+       "files": "https://abstracts-co.github.io/declassified-data/us/cuba/cuba-excomm-tape/",
+       "pageindex": null
+      },
+      {
+       "id": "cuba-khrushchev-letters",
+       "title": "Khrushchev Letters to Kennedy",
+       "type": "document",
+       "date": "1962-10",
+       "released": "1973-11",
+       "agency": "White House",
+       "summary": "President Kennedy's office file of Nikita Khrushchev's letters from 23 October to 19 December 1962, with Russian originals, Moscow embassy telegrams and State Department translations, including the 26 October letter about the 'knot of war'. The October letters were declassified in November 1973; the rest, including Robert Kennedy's memo on his 27 October meeting with Soviet Ambassador Anatoly Dobrynin, followed between 1991 and 1998.",
+       "source": "https://catalog.archives.gov/id/6883656",
+       "files": "https://abstracts-co.github.io/declassified-data/us/cuba/cuba-khrushchev-letters/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/cuba-khrushchev-letters/"
+      },
+      {
+       "id": "cuba-low-level-san-cristobal",
+       "title": "Low-Level Photo of San Cristobal Site 1",
+       "type": "image",
+       "date": "1962-10-23",
+       "released": "1962",
+       "agency": "Department of Defense",
+       "summary": "Low-altitude reconnaissance photo of Soviet medium-range ballistic missile Site 1 at San Cristobal, labeled to show fuel and oxidizer tank trailers, a missile shelter tent, a missile erector and tracked prime movers. It was taken on 23 October 1962 and released by the Department of Defense the same year.",
+       "source": "https://catalog.archives.gov/id/215878428",
+       "files": "https://abstracts-co.github.io/declassified-data/us/cuba/cuba-low-level-san-cristobal/",
+       "pageindex": null
+      },
+      {
+       "id": "cuba-bay-of-pigs-ig-report",
+       "title": "Bay of Pigs Inspector General Report",
+       "type": "document",
+       "date": "1961-10",
+       "released": "1998-02-22",
+       "agency": "CIA",
+       "summary": "CIA Inspector General Lyman Kirkpatrick's October 1961 internal investigation of the failed April 1961 Bay of Pigs invasion, with annexes of planning papers. It blamed the CIA's own poor organization, staffing and management rather than Kennedy's cancellation of the D-Day air strikes, and stayed secret until the National Security Archive obtained its release in 1998.",
+       "source": "https://history.state.gov/historicaldocuments/frus1961-63v10-12mSupp/d273a",
+       "files": "https://abstracts-co.github.io/declassified-data/us/cuba/cuba-bay-of-pigs-ig-report/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/cuba-bay-of-pigs-ig-report/"
+      },
+      {
+       "id": "cuba-mongoose-cuba-project",
+       "title": "The Cuba Project (Operation Mongoose)",
+       "type": "document",
+       "date": "1962-01-18",
+       "released": "2023-05-11",
+       "agency": "Department of Defense",
+       "summary": "Brig. Gen. Edward Lansdale's 18 January 1962 program review for Operation Mongoose, the covert campaign to help Cubans overthrow Fidel Castro's Communist government from within. It assigns 32 numbered tasks to the CIA, State, Defense and USIA, from intelligence collection to propaganda and sabotage; first published in 1997, this copy comes from the National Archives' May 2023 release.",
+       "source": "https://www.archives.gov/research/jfk/release-2023",
+       "files": "https://abstracts-co.github.io/declassified-data/us/cuba/cuba-mongoose-cuba-project/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/cuba-mongoose-cuba-project/"
+      }
+     ]
+    },
+    {
+     "id": "satellites",
+     "name": "Spy satellites",
+     "files": [
+      {
+       "id": "satellites-corona-first-image",
+       "title": "First CORONA Image: Mys Shmidta",
+       "type": "image",
+       "date": "1960-08-18",
+       "released": "1995-02-24",
+       "agency": "NRO",
+       "summary": "The first photograph from a US reconnaissance satellite, showing a Soviet military airfield at Mys Shmidta on the Chukchi Sea, taken on 18 August 1960 by CORONA mission 9009, publicly called Discoverer XIV. CORONA imagery was declassified by executive order in February 1995.",
+       "source": "https://www.nro.gov/foia-home/foia-declassified-nro-programs-and-projects/Declassified-Collection-of-CORONA-ARGON-and-LANYARD-Photographs/",
+       "files": "https://abstracts-co.github.io/declassified-data/us/satellites/satellites-corona-first-image/",
+       "pageindex": null
+      },
+      {
+       "id": "satellites-hexagon-seabed-film",
+       "title": "HEXAGON Film on the Ocean Floor",
+       "type": "image",
+       "date": "1972-04-25",
+       "released": "2012-08",
+       "agency": "CIA",
+       "summary": "A Navy Trieste II photo of the film spools and gold-foil canister from a HEXAGON spy satellite capsule on the Pacific floor about 16,400 feet down, where it sank in July 1971 after its parachute failed. In April 1972 Trieste II hooked the film, but it broke apart on the way up and only about 25 feet was saved.",
+       "source": "https://www.cia.gov/readingroom/collection/underwater-ice-station-zebra-recovering-secret-spy-satellite-capsule-16400-feet-below",
+       "files": "https://abstracts-co.github.io/declassified-data/us/satellites/satellites-hexagon-seabed-film/",
+       "pageindex": null
+      },
+      {
+       "id": "satellites-iran-launch-pad",
+       "title": "Trump's Tweeted Spy Satellite Photo",
+       "type": "image",
+       "date": "2019-08-29",
+       "released": "2019-08-30",
+       "agency": "White House",
+       "summary": "A US reconnaissance image of the wrecked launch pad at Iran's Imam Khomeini Space Center after a Safir rocket exploded on 29 August 2019, which President Trump posted on Twitter the next day, saying he had 'the absolute right' to release it. Amateur satellite trackers matched it to USA 224, believed to be a KH-11 reconnaissance satellite.",
+       "source": "https://twitter.com/realDonaldTrump/status/1167493371973255170",
+       "files": "https://abstracts-co.github.io/declassified-data/us/satellites/satellites-iran-launch-pad/",
+       "pageindex": null
+      },
+      {
+       "id": "satellites-c119-air-catch",
+       "title": "C-119 Air Catch of a CORONA Capsule",
+       "type": "image",
+       "date": "1960",
+       "released": "1997-11-26",
+       "agency": "NRO",
+       "summary": "An Air Force C-119 of the 6593rd Test Squadron from Hickam AFB, Hawaii, catching a parachuting CORONA film capsule in mid-air over the Pacific, the way spy satellite film came home. The squadron flew C-119s on these catches until 1962, and on 19 August 1960 one made the first mid-air recovery of a capsule returning from orbit, from Discoverer XIV.",
+       "source": "https://www.nro.gov/foia-home/foia-declassified-nro-programs-and-projects/Declassified-Collection-of-CORONA-ARGON-and-LANYARD-Photographs/",
+       "files": "https://abstracts-co.github.io/declassified-data/us/satellites/satellites-c119-air-catch/",
+       "pageindex": null
+      },
+      {
+       "id": "satellites-corona-venezuela",
+       "title": "CORONA Capsule Found in Venezuela",
+       "type": "image",
+       "date": "1964",
+       "released": "1997-11-26",
+       "agency": "NRO",
+       "summary": "Four Venezuelan villagers with the battered film capsule of CORONA mission 1005, which came down off course in 1964 on a farm near the Colombian border instead of being caught over the Pacific. Locals hacked at it for its gold parts before the US got it back that August, and afterwards CORONA capsules dropped their SECRET markings and carried a reward notice in eight languages.",
+       "source": "https://www.nro.gov/foia-home/foia-declassified-nro-programs-and-projects/Declassified-Collection-of-CORONA-ARGON-and-LANYARD-Photographs/",
+       "files": "https://abstracts-co.github.io/declassified-data/us/satellites/satellites-corona-venezuela/",
+       "pageindex": null
+      },
+      {
+       "id": "satellites-point-in-time-film",
+       "title": "A Point in Time: The CORONA Story",
+       "type": "video",
+       "date": "1975",
+       "released": "1995-05",
+       "agency": "CIA",
+       "summary": "A once-secret CIA documentary on CORONA, the first US photo-reconnaissance satellite program, covering why it was built and how the satellite and its cameras worked. Made by the CIA's film branch between 1972 and 1975 and opening with Director Richard Helms at the program's October 1972 museum dedication, it was first shown publicly in May 1995.",
+       "source": "https://catalog.archives.gov/id/1678526",
+       "files": "https://abstracts-co.github.io/declassified-data/us/satellites/satellites-point-in-time-film/",
+       "pageindex": null
+      },
+      {
+       "id": "satellites-hexagon-recovery-memo",
+       "title": "Deep Sea Recovery of HEXAGON RV 1201-3",
+       "type": "document",
+       "date": "1972-05-24",
+       "released": "2012-08",
+       "agency": "CIA",
+       "summary": "A 24 May 1972 CIA memorandum, with trip reports and photographs, on the effort to raise a film capsule from the first HEXAGON mission from 16,000 feet of Pacific water with the Navy bathyscaphe Trieste II. It records three dives, the film stacks being hooked on 25 April 1972, and the film breaking apart on the way up, leaving 25 feet.",
+       "source": "https://www.cia.gov/readingroom/collection/underwater-ice-station-zebra-recovering-secret-spy-satellite-capsule-16400-feet-below",
+       "files": "https://abstracts-co.github.io/declassified-data/us/satellites/satellites-hexagon-recovery-memo/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/satellites-hexagon-recovery-memo/"
+      },
+      {
+       "id": "satellites-corona-story",
+       "title": "The CORONA Story",
+       "type": "document",
+       "date": "1987-11",
+       "released": "2018-09-11",
+       "agency": "NRO",
+       "summary": "The National Reconnaissance Office's once-classified history of CORONA, finished in November 1987 by Frederic Oder, James Fitzpatrick and Paul Worthman, tracing the program from its 1950s origins through its first successes and later camera improvements, with an appendix of sample CORONA images. The NRO first released it in 2010 and released this re-reviewed copy in September 2018.",
+       "source": "https://www.nro.gov/Portals/65/documents/foia/docs/HOSR/SC-2017-00006m.pdf",
+       "files": "https://abstracts-co.github.io/declassified-data/us/satellites/satellites-corona-story/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/satellites-corona-story/"
+      }
+     ]
+    },
+    {
+     "id": "deepsea",
+     "name": "Deep sea",
+     "files": [
+      {
+       "id": "deepsea-azorian-history",
+       "title": "Project AZORIAN",
+       "type": "document",
+       "date": "1985",
+       "released": "2010-01-04",
+       "agency": "CIA",
+       "summary": "A 50-page history of Project AZORIAN from the fall 1985 issue of the CIA's in-house journal Studies in Intelligence, describing the secret effort to raise the sunken Soviet missile submarine K-129 from 16,500 feet down in the Pacific with the Hughes Glomar Explorer, a ship presented to the public as a Howard Hughes deep-sea mining vessel. Released in redacted form in 2010, it was the CIA's first substantive declassification about the operation.",
+       "source": "https://www.cia.gov/readingroom/document/0005301269",
+       "files": "https://abstracts-co.github.io/declassified-data/us/deepsea/deepsea-azorian-history/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/deepsea-azorian-history/"
+      },
+      {
+       "id": "deepsea-k129-burial-film",
+       "title": "Burial at Sea of Soviet Submariners",
+       "type": "video",
+       "date": "1974-09-04",
+       "released": "1992",
+       "agency": "CIA",
+       "summary": "CIA film of the burial at sea, conducted from the Hughes Glomar Explorer on 4 September 1974, of six Soviet submariners whose bodies were in the section of K-129 the ship raised. CIA Director Robert Gates gave the film to Russian President Boris Yeltsin in 1992, and the CIA posted it on its YouTube channel in 2014.",
+       "source": "https://commons.wikimedia.org/wiki/File:Burial_At_Sea_of_Soviet_Submariners_from_Hughes_Glomar_Explorer.webm",
+       "files": "https://abstracts-co.github.io/declassified-data/us/deepsea/deepsea-k129-burial-film/",
+       "pageindex": null
+      },
+      {
+       "id": "deepsea-thresher-inquiry",
+       "title": "Thresher Court of Inquiry",
+       "type": "document",
+       "date": "1963",
+       "released": "2020-09-23",
+       "agency": "US Navy",
+       "summary": "Volume I of the Navy's court of inquiry record on the loss of the nuclear submarine USS Thresher, which sank with all on board during a deep test dive on 10 April 1963. Released in 2020 under a court order, it includes the court's findings and Thresher's last message to the escort ship Skylark: 'Experiencing minor difficulties. Have positive up angle. Am attempting to blow.'",
+       "source": "https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2358204/department-of-navy-releases-records-related-to-loss-of-uss-thresher/",
+       "files": "https://abstracts-co.github.io/declassified-data/us/deepsea/deepsea-thresher-inquiry/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/deepsea-thresher-inquiry/"
+      },
+      {
+       "id": "deepsea-k129-wreck-model",
+       "title": "CIA Model of the Sunken K-129",
+       "type": "image",
+       "date": "2022-09-12",
+       "released": "2022-10-26",
+       "agency": "CIA",
+       "summary": "A CIA photograph of the model of the sunken, deteriorated Soviet submarine K-129 that the agency made during Project AZORIAN, shown for the first time in the modernized CIA Museum in 2022.",
+       "source": "https://www.flickr.com/photos/59094030@N08/52456418661/",
+       "files": "https://abstracts-co.github.io/declassified-data/us/deepsea/deepsea-k129-wreck-model/",
+       "pageindex": null
+      },
+      {
+       "id": "deepsea-scorpion-wreck",
+       "title": "Wreck of USS Scorpion",
+       "type": "image",
+       "date": "1986-08",
+       "released": "1995",
+       "agency": "US Navy",
+       "summary": "The bow section of the nuclear submarine USS Scorpion on the Atlantic floor, 10,000 feet down about 400 miles southwest of the Azores, photographed by the Woods Hole Oceanographic Institution in August 1986. Scorpion was lost with all hands in May 1968; the photo was released with its caption in 1995.",
+       "source": "https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/NH-97000/NH-97220-KN.html",
+       "files": "https://abstracts-co.github.io/declassified-data/us/deepsea/deepsea-scorpion-wreck/",
+       "pageindex": null
+      },
+      {
+       "id": "deepsea-thresher-rudder",
+       "title": "Thresher's Rudder on the Seafloor",
+       "type": "image",
+       "date": "1964",
+       "released": "1964-10-01",
+       "agency": "US Navy",
+       "summary": "Overhead view of the upper rudder of the sunken submarine USS Thresher, showing its draft markings, photographed more than 8,000 feet down by a camera towed from USNS Mizar during the Navy's summer 1964 survey of the wreck. The Defense Department announced the survey and made its photographs available on 1 October 1964.",
+       "source": "https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/NH-97000/NH-97557.html",
+       "files": "https://abstracts-co.github.io/declassified-data/us/deepsea/deepsea-thresher-rudder/",
+       "pageindex": null
+      },
+      {
+       "id": "deepsea-matador-meeting",
+       "title": "The Matador Meeting",
+       "type": "document",
+       "date": "1975-03-19",
+       "released": "2012-05-14",
+       "agency": "White House",
+       "summary": "White House record of a 19 March 1975 meeting, held the day The New York Times ran Seymour Hersh's story on the Glomar Explorer, in which President Ford, Defense Secretary Schlesinger and CIA Director Colby discuss whether to confirm the submarine operation. Schlesinger calls it 'a marvel' and urges admitting the bare facts, but Colby's advice to stay silent prevailed.",
+       "source": "https://catalog.archives.gov/id/1552992",
+       "files": "https://abstracts-co.github.io/declassified-data/us/deepsea/deepsea-matador-meeting/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/deepsea-matador-meeting/"
+      }
+     ]
+    },
+    {
+     "id": "gadgets",
+     "name": "Gadgets",
+     "files": [
+      {
+       "id": "gadgets-acoustic-kitty",
+       "title": "Acoustic Kitty",
+       "type": "document",
+       "date": "1967-03",
+       "released": "1983-09",
+       "agency": "CIA",
+       "summary": "Heavily redacted March 1967 CIA memo giving the final verdict on \"Acoustic Kitty\", a Directorate of Science and Technology project to turn a cat wired with transmitting and control devices into a mobile eavesdropping platform. It accepts that cats can be trained to move short distances but concludes the technique would not be practical in a real foreign situation.",
+       "source": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB54/",
+       "files": "https://abstracts-co.github.io/declassified-data/us/gadgets/gadgets-acoustic-kitty/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/gadgets-acoustic-kitty/"
+      },
+      {
+       "id": "gadgets-insectothopter",
+       "title": "Insectothopter",
+       "type": "image",
+       "date": "1974",
+       "released": "2011-02-04",
+       "agency": "CIA",
+       "summary": "CIA Museum photo of the Insectothopter, a dragonfly-shaped micro drone developed by the CIA's Office of Research and Development in the 1970s to carry a tiny listening device. A small gas-driven engine flapped its wings, but crosswinds pushed it off course and it never became operational.",
+       "source": "https://www.cia.gov/legacy/museum/artifact/insectothopter/",
+       "files": "https://abstracts-co.github.io/declassified-data/us/gadgets/gadgets-insectothopter/",
+       "pageindex": null
+      },
+      {
+       "id": "gadgets-camp-century-film",
+       "title": "City Under the Ice (Camp Century)",
+       "type": "video",
+       "date": "1961",
+       "released": "1961",
+       "agency": "US Army",
+       "summary": "Episode of the Army's TV series The Big Picture on Camp Century, a base the Corps of Engineers cut into the Greenland ice sheet and powered with a portable nuclear plant. The film presents it as polar research; the Army's secret Project Iceworm plan to hide missile sites under the ice became public only in 1997.",
+       "source": "https://catalog.archives.gov/id/2569752",
+       "files": "https://abstracts-co.github.io/declassified-data/us/gadgets/gadgets-camp-century-film/",
+       "pageindex": null
+      },
+      {
+       "id": "gadgets-project-1794",
+       "title": "Project 1794",
+       "type": "document",
+       "date": "1956-06",
+       "released": "2012",
+       "agency": "US Air Force",
+       "summary": "Secret 1956 report by Canada's Avro Aircraft for the US Air Force on Project 1794, a disc-shaped jet aircraft 35 feet across meant to take off on a cushion of air and fly faster than sound. It projects a top speed between Mach 3 and Mach 4 and a ceiling of over 100,000 feet.",
+       "source": "https://catalog.archives.gov/id/6920770",
+       "files": "https://abstracts-co.github.io/declassified-data/us/gadgets/gadgets-project-1794/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/gadgets-project-1794/"
+      },
+      {
+       "id": "gadgets-pigeon-camera",
+       "title": "Pigeon Camera",
+       "type": "image",
+       "date": "1976",
+       "released": "2012-06-20",
+       "agency": "CIA",
+       "summary": "CIA Museum photo of a pigeon wearing a miniature camera built by the CIA's Office of Research and Development to take pictures as the bird flew home over a target. In the 1970s the CIA trained pigeons for this under a program code-named TACANA; the museum says the cameras were ultimately ineffective because the birds had trouble flying over the exact locations needed.",
+       "source": "https://www.cia.gov/legacy/museum/artifact/pigeon-camera/",
+       "files": "https://abstracts-co.github.io/declassified-data/us/gadgets/gadgets-pigeon-camera/",
+       "pageindex": null
+      },
+      {
+       "id": "gadgets-simple-sabotage",
+       "title": "Simple Sabotage Field Manual",
+       "type": "document",
+       "date": "1944-01-17",
+       "released": "2008-04-02",
+       "agency": "OSS",
+       "summary": "1944 Office of Strategic Services manual on how ordinary citizens in enemy or occupied territory could quietly sabotage the Axis war effort, from damaging machines to stalling meetings. Its advice for slowing down organizations, such as insisting on doing everything through \"channels\", is still often quoted.",
+       "source": "https://www.cia.gov/stories/story/the-art-of-simple-sabotage/",
+       "files": "https://abstracts-co.github.io/declassified-data/us/gadgets/gadgets-simple-sabotage/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/gadgets-simple-sabotage/"
+      },
+      {
+       "id": "gadgets-charlie-robot-fish",
+       "title": "Charlie the Robot Catfish",
+       "type": "image",
+       "date": "2000",
+       "released": "2011-02-04",
+       "agency": "CIA",
+       "summary": "CIA Museum photo of \"Charlie\", a radio-controlled robot catfish built by the CIA's Office of Advanced Technologies and Programs to study underwater robots. The CIA says it was made to collect water samples without being detected.",
+       "source": "https://www.cia.gov/legacy/museum/artifact/robot-fish-charlie/",
+       "files": "https://abstracts-co.github.io/declassified-data/us/gadgets/gadgets-charlie-robot-fish/",
+       "pageindex": null
+      }
+     ]
+    },
+    {
+     "id": "fbi",
+     "name": "FBI files",
+     "files": [
+      {
+       "id": "fbi-einstein",
+       "title": "Albert Einstein's FBI File",
+       "type": "document",
+       "date": "1932",
+       "released": "2000-01-28",
+       "agency": "FBI",
+       "summary": "Part 1 of the FBI's 1,427-page file on Albert Einstein, which the Bureau opened in December 1932. It begins with the Woman Patriot Corporation's 1932 demand that he be barred from the United States as a communist and runs to 1950.",
+       "source": "https://vault.fbi.gov/Albert%20Einstein",
+       "files": "https://abstracts-co.github.io/declassified-data/us/fbi/fbi-einstein/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/fbi-einstein/"
+      },
+      {
+       "id": "fbi-lennon",
+       "title": "John Lennon's FBI File",
+       "type": "document",
+       "date": "1972",
+       "released": "1997",
+       "agency": "FBI",
+       "summary": "Part 1 of the FBI's file on John Lennon, mostly from 1972, when the Bureau followed his links to anti-war activists planning protests at the Republican National Convention while immigration authorities tried to deport him. Historian Jon Wiener first asked for the file in 1981; most of it was released in 1997 and the last 10 documents in 2006.",
+       "source": "https://vault.fbi.gov/john-winston-lennon",
+       "files": "https://abstracts-co.github.io/declassified-data/us/fbi/fbi-lennon/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/fbi-lennon/"
+      },
+      {
+       "id": "fbi-monroe",
+       "title": "Marilyn Monroe's FBI File",
+       "type": "document",
+       "date": "1955",
+       "released": "2013-01-04",
+       "agency": "FBI",
+       "summary": "The FBI's file on Marilyn Monroe, reprocessed in 2012 with fewer redactions. It tracks her travels and leftist contacts from 1955, including a reported Soviet visa application and her 1962 Mexico trip, where she met the American leftist Frederick Vanderbilt Field.",
+       "source": "https://vault.fbi.gov/Marilyn%20Monroe",
+       "files": "https://abstracts-co.github.io/declassified-data/us/fbi/fbi-monroe/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/fbi-monroe/"
+      },
+      {
+       "id": "fbi-elvis",
+       "title": "Elvis Presley's FBI File",
+       "type": "document",
+       "date": "1956",
+       "released": "1997-07-24",
+       "agency": "FBI",
+       "summary": "Part 1 of the FBI's records on Elvis Presley, who was never investigated but appears in many files. It includes a 1956 letter to Hoover calling him 'a definite danger to the security of the United States' and the memo on his December 31, 1970 tour of FBI headquarters, where he offered to help the Bureau and blamed the Beatles for problems with young people.",
+       "source": "https://vault.fbi.gov/Elvis%20Presley%20",
+       "files": "https://abstracts-co.github.io/declassified-data/us/fbi/fbi-elvis/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/fbi-elvis/"
+      },
+      {
+       "id": "fbi-elvis-nixon-photo",
+       "title": "Elvis Meets Nixon",
+       "type": "image",
+       "date": "1970-12-21",
+       "released": "1997-07-29",
+       "agency": "White House",
+       "summary": "White House photograph of Elvis Presley shaking hands with President Nixon in the Oval Office on December 21, 1970, the meeting at which Presley asked for and got a federal narcotics badge. It is the most requested photograph in the National Archives.",
+       "source": "https://catalog.archives.gov/id/1634221",
+       "files": "https://abstracts-co.github.io/declassified-data/us/fbi/fbi-elvis-nixon-photo/",
+       "pageindex": null
+      },
+      {
+       "id": "fbi-steve-jobs",
+       "title": "Steve Jobs's FBI File",
+       "type": "document",
+       "date": "1991",
+       "released": "2012-02-09",
+       "agency": "FBI",
+       "summary": "The FBI's 1991 background check on Steve Jobs, run when he was considered for the President's Export Council, plus a 1985 bomb threat case against Apple. Interviewees praised his drive, while some said he would 'twist the truth and distort reality' to reach his goals.",
+       "source": "https://vault.fbi.gov/steve-jobs",
+       "files": "https://abstracts-co.github.io/declassified-data/us/fbi/fbi-steve-jobs/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/fbi-steve-jobs/"
+      },
+      {
+       "id": "fbi-hemingway",
+       "title": "Ernest Hemingway's FBI File",
+       "type": "document",
+       "date": "1942",
+       "released": "1983",
+       "agency": "FBI",
+       "summary": "The FBI's file on Ernest Hemingway, which opens in 1942 when he ran a network of informants in Havana with the US Embassy's backing. It includes a January 1961 report that he was at the Mayo Clinic under an assumed name, that doctors had considered electroshock treatment, and that he was worried about an FBI investigation.",
+       "source": "https://vault.fbi.gov/ernest-miller-hemingway",
+       "files": "https://abstracts-co.github.io/declassified-data/us/fbi/fbi-hemingway/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/fbi-hemingway/"
+      },
+      {
+       "id": "fbi-hitler",
+       "title": "Adolf Hitler's FBI File",
+       "type": "document",
+       "date": "1945",
+       "released": "1998-06-03",
+       "agency": "FBI",
+       "summary": "Part 1 of the FBI's file on Adolf Hitler, mostly 1945 to 1948 tips that he had survived the war, such as a Los Angeles informant's story that Hitler landed in Argentina by submarine. The FBI followed up some of the reports; none was confirmed.",
+       "source": "https://vault.fbi.gov/adolf-hitler",
+       "files": "https://abstracts-co.github.io/declassified-data/us/fbi/fbi-hitler/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/fbi-hitler/"
+      }
+     ]
+    },
+    {
+     "id": "presidents",
+     "name": "Presidents",
+     "files": [
+      {
+       "id": "presidents-smoking-gun-tape",
+       "title": "The Smoking Gun Tape",
+       "type": "audio",
+       "date": "1972-06-23",
+       "released": "1974-08-05",
+       "agency": "White House",
+       "summary": "An eight-minute excerpt of the 23 June 1972 Oval Office meeting in which Nixon and his chief of staff, H. R. Haldeman, agree to have the CIA ask the FBI to halt its Watergate investigation on national security grounds. Its release on 5 August 1974, after the Supreme Court ordered the tapes handed over, ended Nixon's remaining support in Congress, and he resigned days later.",
+       "source": "https://www.nixonlibrary.gov/watergate-trial-tapes",
+       "files": "https://abstracts-co.github.io/declassified-data/us/presidents/presidents-smoking-gun-tape/",
+       "pageindex": null
+      },
+      {
+       "id": "presidents-pdb-bin-ladin",
+       "title": "Bin Ladin Determined To Strike in US",
+       "type": "document",
+       "date": "2001-08-06",
+       "released": "2004-04-10",
+       "agency": "CIA",
+       "summary": "The item in President George W. Bush's Daily Brief of 6 August 2001, five weeks before the 9/11 attacks, warning that Bin Ladin had wanted to strike inside the US since 1997 and citing FBI information on activity consistent with preparations for hijackings. It was declassified in April 2004 for the 9/11 Commission; this scan is from the CIA's September 2026 release of 71 declassified 9/11-related briefs.",
+       "source": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/seventy-one-declassified-presidents-daily-brief-products/",
+       "files": "https://abstracts-co.github.io/declassified-data/us/presidents/presidents-pdb-bin-ladin/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/presidents-pdb-bin-ladin/"
+      },
+      {
+       "id": "presidents-situation-room",
+       "title": "The Situation Room",
+       "type": "image",
+       "date": "2011-05-01",
+       "released": "2011-05-02",
+       "agency": "White House",
+       "summary": "Pete Souza's photograph of President Obama, Vice President Biden and the national security team in the White House Situation Room during Operation Neptune Spear, the raid on Osama bin Laden's compound in Pakistan. The White House released it the next day with a note that a classified document in the picture had been obscured.",
+       "source": "https://catalog.archives.gov/id/674695640",
+       "files": "https://abstracts-co.github.io/declassified-data/us/presidents/presidents-situation-room/",
+       "pageindex": null
+      },
+      {
+       "id": "presidents-truman-release-when-ready",
+       "title": "Release When Ready",
+       "type": "image",
+       "date": "1945-07-30",
+       "released": "1979-05-17",
+       "agency": "White House",
+       "summary": "Truman's handwritten reply, written at the Potsdam Conference on the back of a Top Secret cable from Secretary of War Henry Stimson: \"suggestions approved Release when ready but not sooner than August 2.\" It approved the public statement announcing the atomic bomb and is sometimes read as his final go-ahead to use it; Hiroshima was bombed on 6 August 1945.",
+       "source": "https://catalog.archives.gov/id/200665",
+       "files": "https://abstracts-co.github.io/declassified-data/us/presidents/presidents-truman-release-when-ready/",
+       "pageindex": null
+      },
+      {
+       "id": "presidents-watergate-road-map",
+       "title": "Watergate Road Map",
+       "type": "document",
+       "date": "1974-03-01",
+       "released": "2018-10-31",
+       "agency": "Watergate Grand Jury",
+       "summary": "The sealed report the Watergate grand jury sent, through Judge John Sirica, to the House Judiciary Committee in March 1974, setting out evidence about President Nixon in 53 numbered statements of fact so the House could weigh impeachment. It stayed sealed until a federal judge ordered its public portions released in 2018.",
+       "source": "https://www.archives.gov/research/investigations/watergate/roadmap",
+       "files": "https://abstracts-co.github.io/declassified-data/us/presidents/presidents-watergate-road-map/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/presidents-watergate-road-map/"
+      },
+      {
+       "id": "presidents-pentagon-papers-tonkin",
+       "title": "Pentagon Papers: Tonkin Gulf, 1964",
+       "type": "document",
+       "date": "1969-01-15",
+       "released": "2011-06-13",
+       "agency": "Department of Defense",
+       "summary": "The Pentagon Papers volume on July to October 1964, covering the Gulf of Tonkin incidents, the reprisal strikes and the Tonkin Gulf Resolution, and how a consensus formed in the Johnson administration to step up pressure on North Vietnam while deferring action, partly because of the coming election. It comes from the complete study the National Archives declassified and released in 2011.",
+       "source": "https://www.archives.gov/research/pentagon-papers",
+       "files": "https://abstracts-co.github.io/declassified-data/us/presidents/presidents-pentagon-papers-tonkin/",
+       "pageindex": "https://abstracts-co.github.io/declassified-data/pageindex/docs/presidents-pentagon-papers-tonkin/"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
